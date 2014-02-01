@@ -7,7 +7,7 @@ This is the issue tracker for all things Aegis. All issues MUST be posted here t
 
 ## Guidelines
 1. Make the title as short and descriptive as possible. A summary of your issue
-2. Add the label for the server (or pack depending on the issue). **DO NOT ADD ANY OTHER LABELS BESIDES THE FORMER OR IT WILL BE IGNORED**
+2. Add the label for the server in the title (or pack depending on the issue). For example, if the issue is you cannot see chat on the Gaia server, write the title as "[Gaia] Cannot see global chat" **THE LABEL IS REQUIRED, IF YOU FORGET THE LABEL, YOUR ISSUE WILL BE CLOSED**
 3. Paste any error report or long text documents onto something like [Pastebin](http://pastebin.com) or [Hastebin](http://hastebin.com/)
 4. Write as detailed as you can the steps to how you are getting this issue. If we can not replicate the issue, it will be closed and consider not existant.
 5. Do not bump an issue. The older an issue is, the higher priority it has. Bumping your issue will reset that timer.
